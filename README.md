@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#61dafb;">Brundaban</span>!</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#61dafb;">Brundabana</span>!</h1>
 
 <h3 align="center">🚀 Full Stack Developer in Progress | 💡 Passionate Learner | ☕ Java Enthusiast</h3>
 
