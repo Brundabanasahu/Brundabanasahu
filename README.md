@@ -53,7 +53,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/brundabanasahu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/brundabanasahu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   &nbsp;
   <a href="mailto:sbrundabana12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   &nbsp;
