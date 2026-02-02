@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#61dafb;">Brundabana</span>!</h1>
 
-<h3 align="center">🚀 Full Stack Developer in Progress | 💡 Passionate Learner | ☕ Java Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 💡 Passionate Learner | ☕ Java Enthusiast</h3>
 
 ---
 
